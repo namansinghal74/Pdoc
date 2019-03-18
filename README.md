@@ -5,9 +5,7 @@ Prerequisites:-
 1. You must be having an Android Device.
 2. Should have API level 21 or above(Android Version: Lollipop or Above) .
 
-
-1. Open Project1 -> app -> release.
-2. Allow 3rd party apps to install in your device in the settings menu.
-3. Copy and Install app-release.apk to your android device.
-4. App will be installed by the name of Pdoc.
-5. Open the App and Enjoy.
+1. Allow 3rd party apps to install in your device in the settings menu.
+2. Copy and Install app-release.apk to your android device.
+3. App will be installed by the name of Pdoc.
+4. Open the App and Enjoy.
